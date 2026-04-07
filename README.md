@@ -101,9 +101,11 @@ This tool works standalone. It's part of a growing business intelligence stack:
 
 | Tool | What it does | Status |
 |------|-------------|--------|
-| **pharallax-lite** | Structural business analysis - positioning, coherence, competitive surface | Live |
-| **pharallax-recon** | Competitive intelligence - attack vectors, landscape mapping, threat modeling | Coming soon |
+| **[pharallax-lite](https://github.com/washyaderner/pharallax-lite)** | Structural business analysis - positioning, coherence, competitive surface | Live |
+| **[pharallax-recon](https://github.com/washyaderner/pharallax-recon)** | Competitive intelligence - landscape mapping, vulnerability analysis, messaging gaps, opportunity zones | Live |
 | **pharallax-pricing** | Revenue model audit - pricing power, rate erosion, margin optimization | Coming soon |
+
+Used pharallax-lite to analyze your business? Run [pharallax-recon](https://github.com/washyaderner/pharallax-recon) to see how you stack up against your competitors.
 
 ## Requirements
 
